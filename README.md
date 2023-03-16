@@ -45,7 +45,7 @@ python test.py --weight [trained_weight_file_path] --data dataset/test_images
 - `--weight`: path to trained weight
 - `--data`: path to the test dataset
 
-The result will be saved at file `resul.csv`.
+The result will be saved at file `result.csv`.
 
 ## Demo
 You can run a demo to classify an image:
